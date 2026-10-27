@@ -1,0 +1,13 @@
+img {
+    width: 10%;
+    /* object-fit: cover; */
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.error {
+    background-color: black;
+    color: red;
+}
